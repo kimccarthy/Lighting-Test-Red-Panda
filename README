@@ -1,0 +1,39 @@
+
+Kate McCarthy: CSCI 4229
+
+Lighting the previous scene for HW4
+HW uses code from EX13
+
+
+Key bindings
+
+VIEW:
+	m: Toggle between view modes
+	arrow keys: Change view
+	o: toggle objects
+
+	w: Move forward in first person
+	s: Move backward in first person
+	a: Move right in first person
+	d: Move left in first person
+	+: Zoom in (perspective)
+	-: Zoom out (perspective) 
+	
+	0: reset scene view
+
+LIGHTING:
+	r: Toggle light color
+
+	[/] Move light up/down
+	1: Orbital distance +
+	2: Orbital distance -
+	3: Ambient light +
+	4: Ambient light -
+	5: Spec light + 
+	6: Spec light -
+
+	8: Stop light
+
+	9: Reset light position/color
+	
+
